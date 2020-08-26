@@ -1,0 +1,22 @@
+.header {
+font-family: 'Schoolbell', cursive;
+font-size: 80px;
+text-align: center;
+color: blue;
+}
+
+
+.button{
+    text-align: center;
+    margin-top: 200px
+    
+}
+
+#button {
+height: 200px;
+width: 300px;
+text-align: center;
+font-size: 80px;
+font-family: 'Schoolbell', cursive;
+color: purple;
+}
