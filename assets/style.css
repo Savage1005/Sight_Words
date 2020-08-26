@@ -9,12 +9,8 @@ color: blue;
 .button{
     text-align: center;
     margin-top: 200px;
-    -webkit-appearance: none;
-    border-radius: 0;
     padding:0
-    
-    
-}
+    }
 
 #button {
 height: 200px;
@@ -25,3 +21,8 @@ font-family: 'Schoolbell', cursive;
 color: purple;
 padding: 0
 }
+
+input, textarea {
+    -webkit-appearance: none;
+    border-radius: 0;
+  }
