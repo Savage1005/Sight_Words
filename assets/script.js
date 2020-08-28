@@ -56,6 +56,11 @@ const sightWords = [
     "our",
     "his",
     "here",
+    "climbing",
+    "swinging",
+    "hiding",
+    "eating",
+    "scratching",
 ];
 
 function wordGen(){
