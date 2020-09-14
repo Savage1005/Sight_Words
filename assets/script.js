@@ -61,6 +61,9 @@ const sightWords = [
     "hiding",
     "eating",
     "scratching",
+    "goes",
+    "silly",
+    "kitty",
 ];
 
 function wordGen(){
